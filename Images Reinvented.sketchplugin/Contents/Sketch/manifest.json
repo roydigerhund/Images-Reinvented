@@ -1,0 +1,56 @@
+{
+  "name" : "Images Reinvented",
+  "identifier" : "de.matzemachtdesign.sketch.imagesreinvented",
+  "version" : "1.0",
+  "description" : "A better way to use images in Sketch",
+  "authorEmail" : "sketch@matzemachtdesign.de",
+  "author" : "Matthias Martin",
+  "commands" : [
+    {
+      "script" : "make-image.js",
+      "name" : "Create Image Group",
+      "handler" : "createImageGroup",
+      "shortcut" : "shift cmd i",
+      "identifier" : "createImageGroup",
+      "description" : "Change your Nudge, Push, Shove settings.",
+      "icon" : "icons/create-image-group.png"
+    },
+    {
+      "script" : "make-image.js",
+      "name" : "Fill Image",
+      "handler" : "fillImage",
+      "shortcut" : "shift cmd d",
+      "identifier" : "fillImage",
+      "description" : "Change your Nudge, Push, Shove settings.",
+      "icon" : "icons/fill-image.png"
+    },
+    {
+      "script" : "make-image.js",
+      "name" : "Fit Image",
+      "handler" : "fitImage",
+      "shortcut" : "shift cmd f",
+      "identifier" : "fitImage",
+      "description" : "Change your Nudge, Push, Shove settings.",
+      "icon" : "icons/fit-image.png"
+    },
+    {
+      "script" : "make-image.js",
+      "name" : "Resize Mask",
+      "handler" : "resizeMask",
+      "shortcut" : "shift cmd x",
+      "identifier" : "resizeMask",
+      "description" : "Change your Nudge, Push, Shove settings.",
+      "icon" : "icons/resize-mask.png"
+    }
+  ],
+  "menu" : {
+    "title": "Images Reinvented",
+    "items" : [
+      "createImageGroup",
+      "-",
+      "fillImage",
+      "fitImage",
+      "resizeMask"
+    ]
+  }
+}
