@@ -1,6 +1,10 @@
 # Images Reinvented
 A plugin for Sketch to give you full control over your images with a single click. It creates a group which contains your image and a mask.
 
+<a href="http://bit.ly/SketchRunnerWebsite">
+  <img height="40" width="160"  src="http://bit.ly/RunnerBadgeBlue">
+</a>
+
 ## How it works
 It's really simple!
 
@@ -32,9 +36,3 @@ Resize the mask to the width and height of the image.
 ## Feedback
 
 If you have any problems or ideas, please open an issue or send it to github@matzemachtdesign.de
-
-## Support
-
-<a href="http://bit.ly/SketchRunnerWebsite">
-  <img height="40" width="160" src="http://bit.ly/RunnerBadgeBlue">
-</a>
