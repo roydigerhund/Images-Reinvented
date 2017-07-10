@@ -32,3 +32,9 @@ Resize the mask to the width and height of the image.
 ## Feedback
 
 If you have any problems or ideas, please open an issue or send it to github@matzemachtdesign.de
+
+## Support
+
+<a href="http://bit.ly/SketchRunnerWebsite">
+  <img height="40" width="160" src="http://bit.ly/RunnerBadgeBlue">
+</a>
