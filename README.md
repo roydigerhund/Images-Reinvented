@@ -1,6 +1,11 @@
 # Images Reinvented
 A plugin for Sketch to give you full control over your images with a single click. It creates a group which contains your image and a mask.
 
+## Installation
+1. Download and open "Images-Reinvented-master.zip"
+2. Locate and double-click "Images Reinvented.sketchplugin"
+3. That’s it...
+
 ## How it works
 It's really simple!
 
