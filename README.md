@@ -2,6 +2,15 @@
 A plugin for Sketch to give you full control over your images with a single click. It creates a group which contains your image and a mask.
 
 ## Installation
+<a href="https://sketchpacks.com/roydigerhund/Images-Reinvented/install" title="Install Images Reinvented with Sketchpacks">
+  <img width="160" height="41" src="http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png" >
+</a>
+<a href="http://bit.ly/SketchRunnerWebsite">
+  <img src="http://bit.ly/RunnerBadgeBlue" height="41" width="auto">
+</a>
+
+You can install this plugin via Sketchpacks, Sketch Runner or manually by following these steps:
+
 1. Download and open "Images-Reinvented-master.zip"
 2. Locate and double-click "Images Reinvented.sketchplugin"
 3. That’s it...
